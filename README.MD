@@ -8,4 +8,5 @@ step3: run it
 HOW TO KEEP IT RUNNING AFTER CLOSING THE TAB:
 make an account on https://uptimerobot.com
 create a https monitor
-paste the url that appears on the right after you run it there should be something like https://discord-spammer.Striker112.repl.co
+paste the url that appears on the right after you run it there should be something like https://discord-spammer.Striker112.repl.co 
+- made on September 21, 2023
